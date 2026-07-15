@@ -1,7 +1,7 @@
 package Level_1;
 import java.util.*;
 public class Problem21_Subtract5IfOdd {
-
+    
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

@@ -10,7 +10,7 @@ public class Problem21_Subtract5IfOdd {
         int num = sc.nextInt();
 
         int result = num - (num % 2) * 5;
-
+ 
         System.out.println("Result: " + result);
     }
 }

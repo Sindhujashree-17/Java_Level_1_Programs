@@ -15,4 +15,3 @@ public class Problem22_Subtract5ifOddtens {
 	System.out.println("Result:" + result);
 	}
 }
-
